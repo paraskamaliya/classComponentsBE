@@ -1,0 +1,28 @@
+{
+    "groceries": [
+        {
+            "id": 1,
+            "name": "rice",
+            "qty": "10kg",
+            "price": 100,
+            "description": "This is rice",
+            "image": "https://img.freepik.com/free-photo/top-view-raw-rice-inside-plate-dark-desk_179666-27235.jpg?size=626&ext=jpg&ga=GA1.1.1157295257.1695267253&semt=sph"
+        },
+        {
+            "id": 2,
+            "name": "wheat",
+            "qty": "10kg",
+            "price": 50,
+            "description": "This is whear",
+            "image": "https://img.freepik.com/free-photo/wheat-grains-bowl-wheat-popcorn-bowl-wheat-seed-rustic_114579-1316.jpg?size=626&ext=jpg&ga=GA1.1.1157295257.1695267253&semt=sph"
+        },
+        {
+            "id": 3,
+            "name": "Tomato",
+            "qty": "5kg",
+            "price": 50,
+            "description": "This is Tomato",
+            "image": "https://img.freepik.com/free-photo/fresh-red-tomatoes_2829-13449.jpg?size=626&ext=jpg&ga=GA1.1.1157295257.1695267253&semt=sph"
+        }
+    ]
+}
